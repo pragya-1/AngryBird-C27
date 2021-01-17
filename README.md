@@ -1,2 +1,2 @@
-# AngryBird-C27
-Creating chain class and constrainedLog
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
